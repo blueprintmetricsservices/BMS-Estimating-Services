@@ -3,12 +3,3 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Blueprint Metrics Services]
 description: [We are a dedicated construction estimation firm providing precise and reliable cost analysis. Specializing in bid preparation, material takeoffs, and budget forecasting. We deliver clear, actionable estimates using the latest industry software.]
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
----
----
-
-@import "{{ site.theme }}";
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
