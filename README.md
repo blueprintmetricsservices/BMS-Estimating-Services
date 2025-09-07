@@ -29,7 +29,7 @@ This wide-ranging expertise ensures **thorough**, **competitive**, and **mistake
 
 ---
 
-##Why Partner with Us?
+Why Partner with Us?
 
 With over **300 successful project estimates** completed across states including **California, New York, Texas, and Florida**, we bring:
 
@@ -52,7 +52,7 @@ We're fluent in industry-standard software such as:
 
 ---
 
-##Portfolio of Work
+Portfolio of Work
 
 Explore our portfolio to see examples of our work and proven success in action:
 
