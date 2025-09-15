@@ -64,11 +64,11 @@ Let’s Talk
 
 We’d love to learn more about your estimating needs and explore how our remote services can streamline your process, boost productivity, and increase your bid success rate.
 
-**Email**: [blueprintmetricsservices@gmail.com](mailto:info@blueprintmetricsservices.com)
+**Email**: [info@blueprintmetricsservices.com](mailto:info@blueprintmetricsservices.com)
 
 Blueprint Metrics Services LLC.
 A Smarter Approach to Construction Estimation
-https://blueprintmetricsservices.com/
+**Web**: [https://blueprintmetricsservices.com/](https://blueprintmetricsservices.com/)
 ![BMS Logo](https://github.com/user-attachments/assets/111c6538-c8fc-4f85-8950-59bc5b4076df)
 
 ---
