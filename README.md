@@ -71,7 +71,9 @@ Blueprint Metrics Services LLC
 A Smarter Approach to Construction Estimation
 
 **Web**: [https://blueprintmetricsservices.com/](https://blueprintmetricsservices.com/)
-![BMS Logo](https://github.com/user-attachments/assets/111c6538-c8fc-4f85-8950-59bc5b4076df)
+
+![BMS Logo](https://github.com/user-attachments/assets/49a377e9-2c8f-46d5-818f-8393d6ee1a52)
+
 
 ---
 
