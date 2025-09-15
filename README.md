@@ -8,7 +8,7 @@ Whether you're already working with an estimating firm or considering outsourcin
 
 ---
 
-Our Core Competencies
+**Our Core Competencies**
 
 Our team of expert estimators is highly experienced in U.S. construction best practices and CSI Division standards. We provide detailed and reliable cost estimates across **all 49 CSI divisions**, including:
 
@@ -29,7 +29,7 @@ This wide-ranging expertise ensures **thorough**, **competitive**, and **mistake
 
 ---
 
-Why Partner with Us?
+**Why Partner with Us?**
 
 With over **300 successful project estimates** completed across states including **California, New York, Texas, and Florida**, we bring:
 
@@ -52,7 +52,7 @@ We're fluent in industry-standard software such as:
 
 ---
 
-Portfolio of Work
+**Portfolio of Work**
 
 Explore our portfolio to see examples of our work and proven success in action:
 
@@ -60,7 +60,7 @@ Explore our portfolio to see examples of our work and proven success in action:
 
 ---
 
-Let’s Talk
+**Let’s Talk**
 
 We’d love to learn more about your estimating needs and explore how our remote services can streamline your process, boost productivity, and increase your bid success rate.
 
