@@ -56,7 +56,7 @@ Portfolio of Work
 
 Explore our portfolio to see examples of our work and proven success in action:
 
-[Google Drive – Project Portfolio](https://drive.google.com/drive/folders/1r1RRuvbtYCvFzs-3pdqC2bhZ3mq-TnIL?usp=drive_link)
+[BMS – Projects' Portfolio](https://drive.google.com/drive/folders/1r1RRuvbtYCvFzs-3pdqC2bhZ3mq-TnIL?usp=drive_link)
 
 ---
 
