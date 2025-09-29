@@ -31,7 +31,7 @@ This wide-ranging expertise ensures **thorough**, **competitive**, and **mistake
 
 **Why Partner with Us?**
 
-With over **300 successful project estimates** completed across states including **California, New York, Texas, and Florida**, we bring:
+With over **1000 successful project estimates** completed across **USA & Australia**, we bring:
 
 Reduced estimating time  
 Faster bid preparation  
