@@ -10,7 +10,7 @@ Whether you're already working with an estimating firm or considering outsourcin
 
 **Our Core Competencies**
 
-Our team of expert estimators is highly experienced in U.S. construction best practices and CSI Division standards. We provide detailed and reliable cost estimates across **all 49 CSI divisions**, including:
+Our team of expert estimators is highly experienced in U.S. & Australian construction best practices and CSI Division standards. We provide detailed and reliable cost estimates across **all 49 CSI divisions**, including:
 
 - **Division 02 – Existing Conditions**: Demolition, site remediation, environmental services  
 - **Division 03 – Concrete**: Cast-in-place, precast, and finishing  
