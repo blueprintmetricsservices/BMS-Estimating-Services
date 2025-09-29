@@ -1,4 +1,4 @@
-# Blueprint Metrics Services - A Proposal for Construction Cost Estimating Services
+# Blueprint Metrics Services - Proposal for Construction Cost Estimating Services
 
 ## A Smarter Approach to Construction Estimation
 
